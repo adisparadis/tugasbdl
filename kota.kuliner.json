@@ -1,0 +1,1742 @@
+[{
+  "_id": {
+    "$oid": "681e4273186af30174940cca"
+  },
+  "_query_code": "kuliner = [item for item in data if \"kuliner\" in item[\"wisata\"] and item[\"wisata\"][\"kuliner\"]]",
+  "data": [
+    {
+      "_id": {
+        "$oid": "681e22a1186af30174940c9b"
+      },
+      "nama_daerah": "Yogyakarta",
+      "foto_daerah": "https://example.com/images/yogyakarta.jpg",
+      "wisata": {
+        "kuliner": [
+          {
+            "nama": "Kuliner Khas",
+            "deskripsi": "Makanan khas dari daerah ini",
+            "foto": "https://example.com/images/kuliner.jpg"
+          }
+        ],
+        "gunung": [
+          {
+            "nama": "Gunung Indah",
+            "deskripsi": "Gunung terkenal dengan pemandangan indah",
+            "foto": "https://example.com/images/gunung.jpg"
+          }
+        ],
+        "pantai": [
+          {
+            "nama": "Pantai Cantik",
+            "deskripsi": "Pantai berpasir putih dan ombak tenang",
+            "foto": "https://example.com/images/pantai.jpg"
+          }
+        ],
+        "bangunan_bersejarah": [
+          {
+            "nama": "Bangunan Bersejarah",
+            "deskripsi": "Situs bersejarah yang terkenal di daerah ini",
+            "foto": "https://example.com/images/sejarah.jpg"
+          }
+        ],
+        "mall": [
+          {
+            "nama": "Mall Modern",
+            "deskripsi": "Pusat perbelanjaan modern di pusat kota",
+            "foto": "https://example.com/images/mall.jpg"
+          }
+        ],
+        "hotel": [
+          {
+            "nama": "Hotel Nyaman",
+            "deskripsi": "Hotel dengan fasilitas lengkap dan nyaman",
+            "foto": "https://example.com/images/hotel.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "_id": {
+        "$oid": "681e22a1186af30174940c9c"
+      },
+      "nama_daerah": "Bandung",
+      "foto_daerah": "https://example.com/images/bandung.jpg",
+      "wisata": {
+        "kuliner": [
+          {
+            "nama": "Kuliner Khas",
+            "deskripsi": "Makanan khas dari daerah ini",
+            "foto": "https://example.com/images/kuliner.jpg"
+          }
+        ],
+        "gunung": [
+          {
+            "nama": "Gunung Indah",
+            "deskripsi": "Gunung terkenal dengan pemandangan indah",
+            "foto": "https://example.com/images/gunung.jpg"
+          }
+        ],
+        "pantai": [
+          {
+            "nama": "Pantai Cantik",
+            "deskripsi": "Pantai berpasir putih dan ombak tenang",
+            "foto": "https://example.com/images/pantai.jpg"
+          }
+        ],
+        "bangunan_bersejarah": [
+          {
+            "nama": "Bangunan Bersejarah",
+            "deskripsi": "Situs bersejarah yang terkenal di daerah ini",
+            "foto": "https://example.com/images/sejarah.jpg"
+          }
+        ],
+        "mall": [
+          {
+            "nama": "Mall Modern",
+            "deskripsi": "Pusat perbelanjaan modern di pusat kota",
+            "foto": "https://example.com/images/mall.jpg"
+          }
+        ],
+        "hotel": [
+          {
+            "nama": "Hotel Nyaman",
+            "deskripsi": "Hotel dengan fasilitas lengkap dan nyaman",
+            "foto": "https://example.com/images/hotel.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "_id": {
+        "$oid": "681e22a1186af30174940c9d"
+      },
+      "nama_daerah": "Jakarta",
+      "foto_daerah": "https://example.com/images/jakarta.jpg",
+      "wisata": {
+        "kuliner": [
+          {
+            "nama": "Kuliner Khas",
+            "deskripsi": "Makanan khas dari daerah ini",
+            "foto": "https://example.com/images/kuliner.jpg"
+          }
+        ],
+        "gunung": [
+          {
+            "nama": "Gunung Indah",
+            "deskripsi": "Gunung terkenal dengan pemandangan indah",
+            "foto": "https://example.com/images/gunung.jpg"
+          }
+        ],
+        "pantai": [
+          {
+            "nama": "Pantai Cantik",
+            "deskripsi": "Pantai berpasir putih dan ombak tenang",
+            "foto": "https://example.com/images/pantai.jpg"
+          }
+        ],
+        "bangunan_bersejarah": [
+          {
+            "nama": "Bangunan Bersejarah",
+            "deskripsi": "Situs bersejarah yang terkenal di daerah ini",
+            "foto": "https://example.com/images/sejarah.jpg"
+          }
+        ],
+        "mall": [
+          {
+            "nama": "Mall Modern",
+            "deskripsi": "Pusat perbelanjaan modern di pusat kota",
+            "foto": "https://example.com/images/mall.jpg"
+          }
+        ],
+        "hotel": [
+          {
+            "nama": "Hotel Nyaman",
+            "deskripsi": "Hotel dengan fasilitas lengkap dan nyaman",
+            "foto": "https://example.com/images/hotel.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "_id": {
+        "$oid": "681e22a1186af30174940c9e"
+      },
+      "nama_daerah": "Surabaya",
+      "foto_daerah": "https://example.com/images/surabaya.jpg",
+      "wisata": {
+        "kuliner": [
+          {
+            "nama": "Kuliner Khas",
+            "deskripsi": "Makanan khas dari daerah ini",
+            "foto": "https://example.com/images/kuliner.jpg"
+          }
+        ],
+        "gunung": [
+          {
+            "nama": "Gunung Indah",
+            "deskripsi": "Gunung terkenal dengan pemandangan indah",
+            "foto": "https://example.com/images/gunung.jpg"
+          }
+        ],
+        "pantai": [
+          {
+            "nama": "Pantai Cantik",
+            "deskripsi": "Pantai berpasir putih dan ombak tenang",
+            "foto": "https://example.com/images/pantai.jpg"
+          }
+        ],
+        "bangunan_bersejarah": [
+          {
+            "nama": "Bangunan Bersejarah",
+            "deskripsi": "Situs bersejarah yang terkenal di daerah ini",
+            "foto": "https://example.com/images/sejarah.jpg"
+          }
+        ],
+        "mall": [
+          {
+            "nama": "Mall Modern",
+            "deskripsi": "Pusat perbelanjaan modern di pusat kota",
+            "foto": "https://example.com/images/mall.jpg"
+          }
+        ],
+        "hotel": [
+          {
+            "nama": "Hotel Nyaman",
+            "deskripsi": "Hotel dengan fasilitas lengkap dan nyaman",
+            "foto": "https://example.com/images/hotel.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "_id": {
+        "$oid": "681e22a1186af30174940c9f"
+      },
+      "nama_daerah": "Semarang",
+      "foto_daerah": "https://example.com/images/semarang.jpg",
+      "wisata": {
+        "kuliner": [
+          {
+            "nama": "Kuliner Khas",
+            "deskripsi": "Makanan khas dari daerah ini",
+            "foto": "https://example.com/images/kuliner.jpg"
+          }
+        ],
+        "gunung": [
+          {
+            "nama": "Gunung Indah",
+            "deskripsi": "Gunung terkenal dengan pemandangan indah",
+            "foto": "https://example.com/images/gunung.jpg"
+          }
+        ],
+        "pantai": [
+          {
+            "nama": "Pantai Cantik",
+            "deskripsi": "Pantai berpasir putih dan ombak tenang",
+            "foto": "https://example.com/images/pantai.jpg"
+          }
+        ],
+        "bangunan_bersejarah": [
+          {
+            "nama": "Bangunan Bersejarah",
+            "deskripsi": "Situs bersejarah yang terkenal di daerah ini",
+            "foto": "https://example.com/images/sejarah.jpg"
+          }
+        ],
+        "mall": [
+          {
+            "nama": "Mall Modern",
+            "deskripsi": "Pusat perbelanjaan modern di pusat kota",
+            "foto": "https://example.com/images/mall.jpg"
+          }
+        ],
+        "hotel": [
+          {
+            "nama": "Hotel Nyaman",
+            "deskripsi": "Hotel dengan fasilitas lengkap dan nyaman",
+            "foto": "https://example.com/images/hotel.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "_id": {
+        "$oid": "681e22a1186af30174940ca0"
+      },
+      "nama_daerah": "Denpasar",
+      "foto_daerah": "https://example.com/images/denpasar.jpg",
+      "wisata": {
+        "kuliner": [
+          {
+            "nama": "Kuliner Khas",
+            "deskripsi": "Makanan khas dari daerah ini",
+            "foto": "https://example.com/images/kuliner.jpg"
+          }
+        ],
+        "gunung": [
+          {
+            "nama": "Gunung Indah",
+            "deskripsi": "Gunung terkenal dengan pemandangan indah",
+            "foto": "https://example.com/images/gunung.jpg"
+          }
+        ],
+        "pantai": [
+          {
+            "nama": "Pantai Cantik",
+            "deskripsi": "Pantai berpasir putih dan ombak tenang",
+            "foto": "https://example.com/images/pantai.jpg"
+          }
+        ],
+        "bangunan_bersejarah": [
+          {
+            "nama": "Bangunan Bersejarah",
+            "deskripsi": "Situs bersejarah yang terkenal di daerah ini",
+            "foto": "https://example.com/images/sejarah.jpg"
+          }
+        ],
+        "mall": [
+          {
+            "nama": "Mall Modern",
+            "deskripsi": "Pusat perbelanjaan modern di pusat kota",
+            "foto": "https://example.com/images/mall.jpg"
+          }
+        ],
+        "hotel": [
+          {
+            "nama": "Hotel Nyaman",
+            "deskripsi": "Hotel dengan fasilitas lengkap dan nyaman",
+            "foto": "https://example.com/images/hotel.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "_id": {
+        "$oid": "681e22a1186af30174940ca1"
+      },
+      "nama_daerah": "Medan",
+      "foto_daerah": "https://example.com/images/medan.jpg",
+      "wisata": {
+        "kuliner": [
+          {
+            "nama": "Kuliner Khas",
+            "deskripsi": "Makanan khas dari daerah ini",
+            "foto": "https://example.com/images/kuliner.jpg"
+          }
+        ],
+        "gunung": [
+          {
+            "nama": "Gunung Indah",
+            "deskripsi": "Gunung terkenal dengan pemandangan indah",
+            "foto": "https://example.com/images/gunung.jpg"
+          }
+        ],
+        "pantai": [
+          {
+            "nama": "Pantai Cantik",
+            "deskripsi": "Pantai berpasir putih dan ombak tenang",
+            "foto": "https://example.com/images/pantai.jpg"
+          }
+        ],
+        "bangunan_bersejarah": [
+          {
+            "nama": "Bangunan Bersejarah",
+            "deskripsi": "Situs bersejarah yang terkenal di daerah ini",
+            "foto": "https://example.com/images/sejarah.jpg"
+          }
+        ],
+        "mall": [
+          {
+            "nama": "Mall Modern",
+            "deskripsi": "Pusat perbelanjaan modern di pusat kota",
+            "foto": "https://example.com/images/mall.jpg"
+          }
+        ],
+        "hotel": [
+          {
+            "nama": "Hotel Nyaman",
+            "deskripsi": "Hotel dengan fasilitas lengkap dan nyaman",
+            "foto": "https://example.com/images/hotel.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "_id": {
+        "$oid": "681e22a1186af30174940ca2"
+      },
+      "nama_daerah": "Makassar",
+      "foto_daerah": "https://example.com/images/makassar.jpg",
+      "wisata": {
+        "kuliner": [
+          {
+            "nama": "Kuliner Khas",
+            "deskripsi": "Makanan khas dari daerah ini",
+            "foto": "https://example.com/images/kuliner.jpg"
+          }
+        ],
+        "gunung": [
+          {
+            "nama": "Gunung Indah",
+            "deskripsi": "Gunung terkenal dengan pemandangan indah",
+            "foto": "https://example.com/images/gunung.jpg"
+          }
+        ],
+        "pantai": [
+          {
+            "nama": "Pantai Cantik",
+            "deskripsi": "Pantai berpasir putih dan ombak tenang",
+            "foto": "https://example.com/images/pantai.jpg"
+          }
+        ],
+        "bangunan_bersejarah": [
+          {
+            "nama": "Bangunan Bersejarah",
+            "deskripsi": "Situs bersejarah yang terkenal di daerah ini",
+            "foto": "https://example.com/images/sejarah.jpg"
+          }
+        ],
+        "mall": [
+          {
+            "nama": "Mall Modern",
+            "deskripsi": "Pusat perbelanjaan modern di pusat kota",
+            "foto": "https://example.com/images/mall.jpg"
+          }
+        ],
+        "hotel": [
+          {
+            "nama": "Hotel Nyaman",
+            "deskripsi": "Hotel dengan fasilitas lengkap dan nyaman",
+            "foto": "https://example.com/images/hotel.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "_id": {
+        "$oid": "681e22a1186af30174940ca3"
+      },
+      "nama_daerah": "Palembang",
+      "foto_daerah": "https://example.com/images/palembang.jpg",
+      "wisata": {
+        "kuliner": [
+          {
+            "nama": "Kuliner Khas",
+            "deskripsi": "Makanan khas dari daerah ini",
+            "foto": "https://example.com/images/kuliner.jpg"
+          }
+        ],
+        "gunung": [
+          {
+            "nama": "Gunung Indah",
+            "deskripsi": "Gunung terkenal dengan pemandangan indah",
+            "foto": "https://example.com/images/gunung.jpg"
+          }
+        ],
+        "pantai": [
+          {
+            "nama": "Pantai Cantik",
+            "deskripsi": "Pantai berpasir putih dan ombak tenang",
+            "foto": "https://example.com/images/pantai.jpg"
+          }
+        ],
+        "bangunan_bersejarah": [
+          {
+            "nama": "Bangunan Bersejarah",
+            "deskripsi": "Situs bersejarah yang terkenal di daerah ini",
+            "foto": "https://example.com/images/sejarah.jpg"
+          }
+        ],
+        "mall": [
+          {
+            "nama": "Mall Modern",
+            "deskripsi": "Pusat perbelanjaan modern di pusat kota",
+            "foto": "https://example.com/images/mall.jpg"
+          }
+        ],
+        "hotel": [
+          {
+            "nama": "Hotel Nyaman",
+            "deskripsi": "Hotel dengan fasilitas lengkap dan nyaman",
+            "foto": "https://example.com/images/hotel.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "_id": {
+        "$oid": "681e22a1186af30174940ca4"
+      },
+      "nama_daerah": "Padang",
+      "foto_daerah": "https://example.com/images/padang.jpg",
+      "wisata": {
+        "kuliner": [
+          {
+            "nama": "Kuliner Khas",
+            "deskripsi": "Makanan khas dari daerah ini",
+            "foto": "https://example.com/images/kuliner.jpg"
+          }
+        ],
+        "gunung": [
+          {
+            "nama": "Gunung Indah",
+            "deskripsi": "Gunung terkenal dengan pemandangan indah",
+            "foto": "https://example.com/images/gunung.jpg"
+          }
+        ],
+        "pantai": [
+          {
+            "nama": "Pantai Cantik",
+            "deskripsi": "Pantai berpasir putih dan ombak tenang",
+            "foto": "https://example.com/images/pantai.jpg"
+          }
+        ],
+        "bangunan_bersejarah": [
+          {
+            "nama": "Bangunan Bersejarah",
+            "deskripsi": "Situs bersejarah yang terkenal di daerah ini",
+            "foto": "https://example.com/images/sejarah.jpg"
+          }
+        ],
+        "mall": [
+          {
+            "nama": "Mall Modern",
+            "deskripsi": "Pusat perbelanjaan modern di pusat kota",
+            "foto": "https://example.com/images/mall.jpg"
+          }
+        ],
+        "hotel": [
+          {
+            "nama": "Hotel Nyaman",
+            "deskripsi": "Hotel dengan fasilitas lengkap dan nyaman",
+            "foto": "https://example.com/images/hotel.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "_id": {
+        "$oid": "681e22a1186af30174940ca5"
+      },
+      "nama_daerah": "Pekanbaru",
+      "foto_daerah": "https://example.com/images/pekanbaru.jpg",
+      "wisata": {
+        "kuliner": [
+          {
+            "nama": "Kuliner Khas",
+            "deskripsi": "Makanan khas dari daerah ini",
+            "foto": "https://example.com/images/kuliner.jpg"
+          }
+        ],
+        "gunung": [
+          {
+            "nama": "Gunung Indah",
+            "deskripsi": "Gunung terkenal dengan pemandangan indah",
+            "foto": "https://example.com/images/gunung.jpg"
+          }
+        ],
+        "pantai": [
+          {
+            "nama": "Pantai Cantik",
+            "deskripsi": "Pantai berpasir putih dan ombak tenang",
+            "foto": "https://example.com/images/pantai.jpg"
+          }
+        ],
+        "bangunan_bersejarah": [
+          {
+            "nama": "Bangunan Bersejarah",
+            "deskripsi": "Situs bersejarah yang terkenal di daerah ini",
+            "foto": "https://example.com/images/sejarah.jpg"
+          }
+        ],
+        "mall": [
+          {
+            "nama": "Mall Modern",
+            "deskripsi": "Pusat perbelanjaan modern di pusat kota",
+            "foto": "https://example.com/images/mall.jpg"
+          }
+        ],
+        "hotel": [
+          {
+            "nama": "Hotel Nyaman",
+            "deskripsi": "Hotel dengan fasilitas lengkap dan nyaman",
+            "foto": "https://example.com/images/hotel.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "_id": {
+        "$oid": "681e22a1186af30174940ca6"
+      },
+      "nama_daerah": "Manado",
+      "foto_daerah": "https://example.com/images/manado.jpg",
+      "wisata": {
+        "kuliner": [
+          {
+            "nama": "Kuliner Khas",
+            "deskripsi": "Makanan khas dari daerah ini",
+            "foto": "https://example.com/images/kuliner.jpg"
+          }
+        ],
+        "gunung": [
+          {
+            "nama": "Gunung Indah",
+            "deskripsi": "Gunung terkenal dengan pemandangan indah",
+            "foto": "https://example.com/images/gunung.jpg"
+          }
+        ],
+        "pantai": [
+          {
+            "nama": "Pantai Cantik",
+            "deskripsi": "Pantai berpasir putih dan ombak tenang",
+            "foto": "https://example.com/images/pantai.jpg"
+          }
+        ],
+        "bangunan_bersejarah": [
+          {
+            "nama": "Bangunan Bersejarah",
+            "deskripsi": "Situs bersejarah yang terkenal di daerah ini",
+            "foto": "https://example.com/images/sejarah.jpg"
+          }
+        ],
+        "mall": [
+          {
+            "nama": "Mall Modern",
+            "deskripsi": "Pusat perbelanjaan modern di pusat kota",
+            "foto": "https://example.com/images/mall.jpg"
+          }
+        ],
+        "hotel": [
+          {
+            "nama": "Hotel Nyaman",
+            "deskripsi": "Hotel dengan fasilitas lengkap dan nyaman",
+            "foto": "https://example.com/images/hotel.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "_id": {
+        "$oid": "681e22a1186af30174940ca7"
+      },
+      "nama_daerah": "Pontianak",
+      "foto_daerah": "https://example.com/images/pontianak.jpg",
+      "wisata": {
+        "kuliner": [
+          {
+            "nama": "Kuliner Khas",
+            "deskripsi": "Makanan khas dari daerah ini",
+            "foto": "https://example.com/images/kuliner.jpg"
+          }
+        ],
+        "gunung": [
+          {
+            "nama": "Gunung Indah",
+            "deskripsi": "Gunung terkenal dengan pemandangan indah",
+            "foto": "https://example.com/images/gunung.jpg"
+          }
+        ],
+        "pantai": [
+          {
+            "nama": "Pantai Cantik",
+            "deskripsi": "Pantai berpasir putih dan ombak tenang",
+            "foto": "https://example.com/images/pantai.jpg"
+          }
+        ],
+        "bangunan_bersejarah": [
+          {
+            "nama": "Bangunan Bersejarah",
+            "deskripsi": "Situs bersejarah yang terkenal di daerah ini",
+            "foto": "https://example.com/images/sejarah.jpg"
+          }
+        ],
+        "mall": [
+          {
+            "nama": "Mall Modern",
+            "deskripsi": "Pusat perbelanjaan modern di pusat kota",
+            "foto": "https://example.com/images/mall.jpg"
+          }
+        ],
+        "hotel": [
+          {
+            "nama": "Hotel Nyaman",
+            "deskripsi": "Hotel dengan fasilitas lengkap dan nyaman",
+            "foto": "https://example.com/images/hotel.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "_id": {
+        "$oid": "681e22a1186af30174940ca8"
+      },
+      "nama_daerah": "Banjarmasin",
+      "foto_daerah": "https://example.com/images/banjarmasin.jpg",
+      "wisata": {
+        "kuliner": [
+          {
+            "nama": "Kuliner Khas",
+            "deskripsi": "Makanan khas dari daerah ini",
+            "foto": "https://example.com/images/kuliner.jpg"
+          }
+        ],
+        "gunung": [
+          {
+            "nama": "Gunung Indah",
+            "deskripsi": "Gunung terkenal dengan pemandangan indah",
+            "foto": "https://example.com/images/gunung.jpg"
+          }
+        ],
+        "pantai": [
+          {
+            "nama": "Pantai Cantik",
+            "deskripsi": "Pantai berpasir putih dan ombak tenang",
+            "foto": "https://example.com/images/pantai.jpg"
+          }
+        ],
+        "bangunan_bersejarah": [
+          {
+            "nama": "Bangunan Bersejarah",
+            "deskripsi": "Situs bersejarah yang terkenal di daerah ini",
+            "foto": "https://example.com/images/sejarah.jpg"
+          }
+        ],
+        "mall": [
+          {
+            "nama": "Mall Modern",
+            "deskripsi": "Pusat perbelanjaan modern di pusat kota",
+            "foto": "https://example.com/images/mall.jpg"
+          }
+        ],
+        "hotel": [
+          {
+            "nama": "Hotel Nyaman",
+            "deskripsi": "Hotel dengan fasilitas lengkap dan nyaman",
+            "foto": "https://example.com/images/hotel.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "_id": {
+        "$oid": "681e22a1186af30174940ca9"
+      },
+      "nama_daerah": "Balikpapan",
+      "foto_daerah": "https://example.com/images/balikpapan.jpg",
+      "wisata": {
+        "kuliner": [
+          {
+            "nama": "Kuliner Khas",
+            "deskripsi": "Makanan khas dari daerah ini",
+            "foto": "https://example.com/images/kuliner.jpg"
+          }
+        ],
+        "gunung": [
+          {
+            "nama": "Gunung Indah",
+            "deskripsi": "Gunung terkenal dengan pemandangan indah",
+            "foto": "https://example.com/images/gunung.jpg"
+          }
+        ],
+        "pantai": [
+          {
+            "nama": "Pantai Cantik",
+            "deskripsi": "Pantai berpasir putih dan ombak tenang",
+            "foto": "https://example.com/images/pantai.jpg"
+          }
+        ],
+        "bangunan_bersejarah": [
+          {
+            "nama": "Bangunan Bersejarah",
+            "deskripsi": "Situs bersejarah yang terkenal di daerah ini",
+            "foto": "https://example.com/images/sejarah.jpg"
+          }
+        ],
+        "mall": [
+          {
+            "nama": "Mall Modern",
+            "deskripsi": "Pusat perbelanjaan modern di pusat kota",
+            "foto": "https://example.com/images/mall.jpg"
+          }
+        ],
+        "hotel": [
+          {
+            "nama": "Hotel Nyaman",
+            "deskripsi": "Hotel dengan fasilitas lengkap dan nyaman",
+            "foto": "https://example.com/images/hotel.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "_id": {
+        "$oid": "681e22a1186af30174940caa"
+      },
+      "nama_daerah": "Samarinda",
+      "foto_daerah": "https://example.com/images/samarinda.jpg",
+      "wisata": {
+        "kuliner": [
+          {
+            "nama": "Kuliner Khas",
+            "deskripsi": "Makanan khas dari daerah ini",
+            "foto": "https://example.com/images/kuliner.jpg"
+          }
+        ],
+        "gunung": [
+          {
+            "nama": "Gunung Indah",
+            "deskripsi": "Gunung terkenal dengan pemandangan indah",
+            "foto": "https://example.com/images/gunung.jpg"
+          }
+        ],
+        "pantai": [
+          {
+            "nama": "Pantai Cantik",
+            "deskripsi": "Pantai berpasir putih dan ombak tenang",
+            "foto": "https://example.com/images/pantai.jpg"
+          }
+        ],
+        "bangunan_bersejarah": [
+          {
+            "nama": "Bangunan Bersejarah",
+            "deskripsi": "Situs bersejarah yang terkenal di daerah ini",
+            "foto": "https://example.com/images/sejarah.jpg"
+          }
+        ],
+        "mall": [
+          {
+            "nama": "Mall Modern",
+            "deskripsi": "Pusat perbelanjaan modern di pusat kota",
+            "foto": "https://example.com/images/mall.jpg"
+          }
+        ],
+        "hotel": [
+          {
+            "nama": "Hotel Nyaman",
+            "deskripsi": "Hotel dengan fasilitas lengkap dan nyaman",
+            "foto": "https://example.com/images/hotel.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "_id": {
+        "$oid": "681e22a1186af30174940cab"
+      },
+      "nama_daerah": "Batam",
+      "foto_daerah": "https://example.com/images/batam.jpg",
+      "wisata": {
+        "kuliner": [
+          {
+            "nama": "Kuliner Khas",
+            "deskripsi": "Makanan khas dari daerah ini",
+            "foto": "https://example.com/images/kuliner.jpg"
+          }
+        ],
+        "gunung": [
+          {
+            "nama": "Gunung Indah",
+            "deskripsi": "Gunung terkenal dengan pemandangan indah",
+            "foto": "https://example.com/images/gunung.jpg"
+          }
+        ],
+        "pantai": [
+          {
+            "nama": "Pantai Cantik",
+            "deskripsi": "Pantai berpasir putih dan ombak tenang",
+            "foto": "https://example.com/images/pantai.jpg"
+          }
+        ],
+        "bangunan_bersejarah": [
+          {
+            "nama": "Bangunan Bersejarah",
+            "deskripsi": "Situs bersejarah yang terkenal di daerah ini",
+            "foto": "https://example.com/images/sejarah.jpg"
+          }
+        ],
+        "mall": [
+          {
+            "nama": "Mall Modern",
+            "deskripsi": "Pusat perbelanjaan modern di pusat kota",
+            "foto": "https://example.com/images/mall.jpg"
+          }
+        ],
+        "hotel": [
+          {
+            "nama": "Hotel Nyaman",
+            "deskripsi": "Hotel dengan fasilitas lengkap dan nyaman",
+            "foto": "https://example.com/images/hotel.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "_id": {
+        "$oid": "681e22a1186af30174940cac"
+      },
+      "nama_daerah": "Tangerang",
+      "foto_daerah": "https://example.com/images/tangerang.jpg",
+      "wisata": {
+        "kuliner": [
+          {
+            "nama": "Kuliner Khas",
+            "deskripsi": "Makanan khas dari daerah ini",
+            "foto": "https://example.com/images/kuliner.jpg"
+          }
+        ],
+        "gunung": [
+          {
+            "nama": "Gunung Indah",
+            "deskripsi": "Gunung terkenal dengan pemandangan indah",
+            "foto": "https://example.com/images/gunung.jpg"
+          }
+        ],
+        "pantai": [
+          {
+            "nama": "Pantai Cantik",
+            "deskripsi": "Pantai berpasir putih dan ombak tenang",
+            "foto": "https://example.com/images/pantai.jpg"
+          }
+        ],
+        "bangunan_bersejarah": [
+          {
+            "nama": "Bangunan Bersejarah",
+            "deskripsi": "Situs bersejarah yang terkenal di daerah ini",
+            "foto": "https://example.com/images/sejarah.jpg"
+          }
+        ],
+        "mall": [
+          {
+            "nama": "Mall Modern",
+            "deskripsi": "Pusat perbelanjaan modern di pusat kota",
+            "foto": "https://example.com/images/mall.jpg"
+          }
+        ],
+        "hotel": [
+          {
+            "nama": "Hotel Nyaman",
+            "deskripsi": "Hotel dengan fasilitas lengkap dan nyaman",
+            "foto": "https://example.com/images/hotel.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "_id": {
+        "$oid": "681e22a1186af30174940cad"
+      },
+      "nama_daerah": "Bekasi",
+      "foto_daerah": "https://example.com/images/bekasi.jpg",
+      "wisata": {
+        "kuliner": [
+          {
+            "nama": "Kuliner Khas",
+            "deskripsi": "Makanan khas dari daerah ini",
+            "foto": "https://example.com/images/kuliner.jpg"
+          }
+        ],
+        "gunung": [
+          {
+            "nama": "Gunung Indah",
+            "deskripsi": "Gunung terkenal dengan pemandangan indah",
+            "foto": "https://example.com/images/gunung.jpg"
+          }
+        ],
+        "pantai": [
+          {
+            "nama": "Pantai Cantik",
+            "deskripsi": "Pantai berpasir putih dan ombak tenang",
+            "foto": "https://example.com/images/pantai.jpg"
+          }
+        ],
+        "bangunan_bersejarah": [
+          {
+            "nama": "Bangunan Bersejarah",
+            "deskripsi": "Situs bersejarah yang terkenal di daerah ini",
+            "foto": "https://example.com/images/sejarah.jpg"
+          }
+        ],
+        "mall": [
+          {
+            "nama": "Mall Modern",
+            "deskripsi": "Pusat perbelanjaan modern di pusat kota",
+            "foto": "https://example.com/images/mall.jpg"
+          }
+        ],
+        "hotel": [
+          {
+            "nama": "Hotel Nyaman",
+            "deskripsi": "Hotel dengan fasilitas lengkap dan nyaman",
+            "foto": "https://example.com/images/hotel.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "_id": {
+        "$oid": "681e22a1186af30174940cae"
+      },
+      "nama_daerah": "Depok",
+      "foto_daerah": "https://example.com/images/depok.jpg",
+      "wisata": {
+        "kuliner": [
+          {
+            "nama": "Kuliner Khas",
+            "deskripsi": "Makanan khas dari daerah ini",
+            "foto": "https://example.com/images/kuliner.jpg"
+          }
+        ],
+        "gunung": [
+          {
+            "nama": "Gunung Indah",
+            "deskripsi": "Gunung terkenal dengan pemandangan indah",
+            "foto": "https://example.com/images/gunung.jpg"
+          }
+        ],
+        "pantai": [
+          {
+            "nama": "Pantai Cantik",
+            "deskripsi": "Pantai berpasir putih dan ombak tenang",
+            "foto": "https://example.com/images/pantai.jpg"
+          }
+        ],
+        "bangunan_bersejarah": [
+          {
+            "nama": "Bangunan Bersejarah",
+            "deskripsi": "Situs bersejarah yang terkenal di daerah ini",
+            "foto": "https://example.com/images/sejarah.jpg"
+          }
+        ],
+        "mall": [
+          {
+            "nama": "Mall Modern",
+            "deskripsi": "Pusat perbelanjaan modern di pusat kota",
+            "foto": "https://example.com/images/mall.jpg"
+          }
+        ],
+        "hotel": [
+          {
+            "nama": "Hotel Nyaman",
+            "deskripsi": "Hotel dengan fasilitas lengkap dan nyaman",
+            "foto": "https://example.com/images/hotel.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "_id": {
+        "$oid": "681e22a1186af30174940caf"
+      },
+      "nama_daerah": "Bogor",
+      "foto_daerah": "https://example.com/images/bogor.jpg",
+      "wisata": {
+        "kuliner": [
+          {
+            "nama": "Kuliner Khas",
+            "deskripsi": "Makanan khas dari daerah ini",
+            "foto": "https://example.com/images/kuliner.jpg"
+          }
+        ],
+        "gunung": [
+          {
+            "nama": "Gunung Indah",
+            "deskripsi": "Gunung terkenal dengan pemandangan indah",
+            "foto": "https://example.com/images/gunung.jpg"
+          }
+        ],
+        "pantai": [
+          {
+            "nama": "Pantai Cantik",
+            "deskripsi": "Pantai berpasir putih dan ombak tenang",
+            "foto": "https://example.com/images/pantai.jpg"
+          }
+        ],
+        "bangunan_bersejarah": [
+          {
+            "nama": "Bangunan Bersejarah",
+            "deskripsi": "Situs bersejarah yang terkenal di daerah ini",
+            "foto": "https://example.com/images/sejarah.jpg"
+          }
+        ],
+        "mall": [
+          {
+            "nama": "Mall Modern",
+            "deskripsi": "Pusat perbelanjaan modern di pusat kota",
+            "foto": "https://example.com/images/mall.jpg"
+          }
+        ],
+        "hotel": [
+          {
+            "nama": "Hotel Nyaman",
+            "deskripsi": "Hotel dengan fasilitas lengkap dan nyaman",
+            "foto": "https://example.com/images/hotel.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "_id": {
+        "$oid": "681e22a1186af30174940cb0"
+      },
+      "nama_daerah": "Malang",
+      "foto_daerah": "https://example.com/images/malang.jpg",
+      "wisata": {
+        "kuliner": [
+          {
+            "nama": "Kuliner Khas",
+            "deskripsi": "Makanan khas dari daerah ini",
+            "foto": "https://example.com/images/kuliner.jpg"
+          }
+        ],
+        "gunung": [
+          {
+            "nama": "Gunung Indah",
+            "deskripsi": "Gunung terkenal dengan pemandangan indah",
+            "foto": "https://example.com/images/gunung.jpg"
+          }
+        ],
+        "pantai": [
+          {
+            "nama": "Pantai Cantik",
+            "deskripsi": "Pantai berpasir putih dan ombak tenang",
+            "foto": "https://example.com/images/pantai.jpg"
+          }
+        ],
+        "bangunan_bersejarah": [
+          {
+            "nama": "Bangunan Bersejarah",
+            "deskripsi": "Situs bersejarah yang terkenal di daerah ini",
+            "foto": "https://example.com/images/sejarah.jpg"
+          }
+        ],
+        "mall": [
+          {
+            "nama": "Mall Modern",
+            "deskripsi": "Pusat perbelanjaan modern di pusat kota",
+            "foto": "https://example.com/images/mall.jpg"
+          }
+        ],
+        "hotel": [
+          {
+            "nama": "Hotel Nyaman",
+            "deskripsi": "Hotel dengan fasilitas lengkap dan nyaman",
+            "foto": "https://example.com/images/hotel.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "_id": {
+        "$oid": "681e22a1186af30174940cb1"
+      },
+      "nama_daerah": "Solo",
+      "foto_daerah": "https://example.com/images/solo.jpg",
+      "wisata": {
+        "kuliner": [
+          {
+            "nama": "Kuliner Khas",
+            "deskripsi": "Makanan khas dari daerah ini",
+            "foto": "https://example.com/images/kuliner.jpg"
+          }
+        ],
+        "gunung": [
+          {
+            "nama": "Gunung Indah",
+            "deskripsi": "Gunung terkenal dengan pemandangan indah",
+            "foto": "https://example.com/images/gunung.jpg"
+          }
+        ],
+        "pantai": [
+          {
+            "nama": "Pantai Cantik",
+            "deskripsi": "Pantai berpasir putih dan ombak tenang",
+            "foto": "https://example.com/images/pantai.jpg"
+          }
+        ],
+        "bangunan_bersejarah": [
+          {
+            "nama": "Bangunan Bersejarah",
+            "deskripsi": "Situs bersejarah yang terkenal di daerah ini",
+            "foto": "https://example.com/images/sejarah.jpg"
+          }
+        ],
+        "mall": [
+          {
+            "nama": "Mall Modern",
+            "deskripsi": "Pusat perbelanjaan modern di pusat kota",
+            "foto": "https://example.com/images/mall.jpg"
+          }
+        ],
+        "hotel": [
+          {
+            "nama": "Hotel Nyaman",
+            "deskripsi": "Hotel dengan fasilitas lengkap dan nyaman",
+            "foto": "https://example.com/images/hotel.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "_id": {
+        "$oid": "681e22a1186af30174940cb2"
+      },
+      "nama_daerah": "Cirebon",
+      "foto_daerah": "https://example.com/images/cirebon.jpg",
+      "wisata": {
+        "kuliner": [
+          {
+            "nama": "Kuliner Khas",
+            "deskripsi": "Makanan khas dari daerah ini",
+            "foto": "https://example.com/images/kuliner.jpg"
+          }
+        ],
+        "gunung": [
+          {
+            "nama": "Gunung Indah",
+            "deskripsi": "Gunung terkenal dengan pemandangan indah",
+            "foto": "https://example.com/images/gunung.jpg"
+          }
+        ],
+        "pantai": [
+          {
+            "nama": "Pantai Cantik",
+            "deskripsi": "Pantai berpasir putih dan ombak tenang",
+            "foto": "https://example.com/images/pantai.jpg"
+          }
+        ],
+        "bangunan_bersejarah": [
+          {
+            "nama": "Bangunan Bersejarah",
+            "deskripsi": "Situs bersejarah yang terkenal di daerah ini",
+            "foto": "https://example.com/images/sejarah.jpg"
+          }
+        ],
+        "mall": [
+          {
+            "nama": "Mall Modern",
+            "deskripsi": "Pusat perbelanjaan modern di pusat kota",
+            "foto": "https://example.com/images/mall.jpg"
+          }
+        ],
+        "hotel": [
+          {
+            "nama": "Hotel Nyaman",
+            "deskripsi": "Hotel dengan fasilitas lengkap dan nyaman",
+            "foto": "https://example.com/images/hotel.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "_id": {
+        "$oid": "681e22a1186af30174940cb3"
+      },
+      "nama_daerah": "Tasikmalaya",
+      "foto_daerah": "https://example.com/images/tasikmalaya.jpg",
+      "wisata": {
+        "kuliner": [
+          {
+            "nama": "Kuliner Khas",
+            "deskripsi": "Makanan khas dari daerah ini",
+            "foto": "https://example.com/images/kuliner.jpg"
+          }
+        ],
+        "gunung": [
+          {
+            "nama": "Gunung Indah",
+            "deskripsi": "Gunung terkenal dengan pemandangan indah",
+            "foto": "https://example.com/images/gunung.jpg"
+          }
+        ],
+        "pantai": [
+          {
+            "nama": "Pantai Cantik",
+            "deskripsi": "Pantai berpasir putih dan ombak tenang",
+            "foto": "https://example.com/images/pantai.jpg"
+          }
+        ],
+        "bangunan_bersejarah": [
+          {
+            "nama": "Bangunan Bersejarah",
+            "deskripsi": "Situs bersejarah yang terkenal di daerah ini",
+            "foto": "https://example.com/images/sejarah.jpg"
+          }
+        ],
+        "mall": [
+          {
+            "nama": "Mall Modern",
+            "deskripsi": "Pusat perbelanjaan modern di pusat kota",
+            "foto": "https://example.com/images/mall.jpg"
+          }
+        ],
+        "hotel": [
+          {
+            "nama": "Hotel Nyaman",
+            "deskripsi": "Hotel dengan fasilitas lengkap dan nyaman",
+            "foto": "https://example.com/images/hotel.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "_id": {
+        "$oid": "681e22a1186af30174940cb4"
+      },
+      "nama_daerah": "Mataram",
+      "foto_daerah": "https://example.com/images/mataram.jpg",
+      "wisata": {
+        "kuliner": [
+          {
+            "nama": "Kuliner Khas",
+            "deskripsi": "Makanan khas dari daerah ini",
+            "foto": "https://example.com/images/kuliner.jpg"
+          }
+        ],
+        "gunung": [
+          {
+            "nama": "Gunung Indah",
+            "deskripsi": "Gunung terkenal dengan pemandangan indah",
+            "foto": "https://example.com/images/gunung.jpg"
+          }
+        ],
+        "pantai": [
+          {
+            "nama": "Pantai Cantik",
+            "deskripsi": "Pantai berpasir putih dan ombak tenang",
+            "foto": "https://example.com/images/pantai.jpg"
+          }
+        ],
+        "bangunan_bersejarah": [
+          {
+            "nama": "Bangunan Bersejarah",
+            "deskripsi": "Situs bersejarah yang terkenal di daerah ini",
+            "foto": "https://example.com/images/sejarah.jpg"
+          }
+        ],
+        "mall": [
+          {
+            "nama": "Mall Modern",
+            "deskripsi": "Pusat perbelanjaan modern di pusat kota",
+            "foto": "https://example.com/images/mall.jpg"
+          }
+        ],
+        "hotel": [
+          {
+            "nama": "Hotel Nyaman",
+            "deskripsi": "Hotel dengan fasilitas lengkap dan nyaman",
+            "foto": "https://example.com/images/hotel.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "_id": {
+        "$oid": "681e22a1186af30174940cb5"
+      },
+      "nama_daerah": "Kupang",
+      "foto_daerah": "https://example.com/images/kupang.jpg",
+      "wisata": {
+        "kuliner": [
+          {
+            "nama": "Kuliner Khas",
+            "deskripsi": "Makanan khas dari daerah ini",
+            "foto": "https://example.com/images/kuliner.jpg"
+          }
+        ],
+        "gunung": [
+          {
+            "nama": "Gunung Indah",
+            "deskripsi": "Gunung terkenal dengan pemandangan indah",
+            "foto": "https://example.com/images/gunung.jpg"
+          }
+        ],
+        "pantai": [
+          {
+            "nama": "Pantai Cantik",
+            "deskripsi": "Pantai berpasir putih dan ombak tenang",
+            "foto": "https://example.com/images/pantai.jpg"
+          }
+        ],
+        "bangunan_bersejarah": [
+          {
+            "nama": "Bangunan Bersejarah",
+            "deskripsi": "Situs bersejarah yang terkenal di daerah ini",
+            "foto": "https://example.com/images/sejarah.jpg"
+          }
+        ],
+        "mall": [
+          {
+            "nama": "Mall Modern",
+            "deskripsi": "Pusat perbelanjaan modern di pusat kota",
+            "foto": "https://example.com/images/mall.jpg"
+          }
+        ],
+        "hotel": [
+          {
+            "nama": "Hotel Nyaman",
+            "deskripsi": "Hotel dengan fasilitas lengkap dan nyaman",
+            "foto": "https://example.com/images/hotel.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "_id": {
+        "$oid": "681e22a1186af30174940cb6"
+      },
+      "nama_daerah": "Jayapura",
+      "foto_daerah": "https://example.com/images/jayapura.jpg",
+      "wisata": {
+        "kuliner": [
+          {
+            "nama": "Kuliner Khas",
+            "deskripsi": "Makanan khas dari daerah ini",
+            "foto": "https://example.com/images/kuliner.jpg"
+          }
+        ],
+        "gunung": [
+          {
+            "nama": "Gunung Indah",
+            "deskripsi": "Gunung terkenal dengan pemandangan indah",
+            "foto": "https://example.com/images/gunung.jpg"
+          }
+        ],
+        "pantai": [
+          {
+            "nama": "Pantai Cantik",
+            "deskripsi": "Pantai berpasir putih dan ombak tenang",
+            "foto": "https://example.com/images/pantai.jpg"
+          }
+        ],
+        "bangunan_bersejarah": [
+          {
+            "nama": "Bangunan Bersejarah",
+            "deskripsi": "Situs bersejarah yang terkenal di daerah ini",
+            "foto": "https://example.com/images/sejarah.jpg"
+          }
+        ],
+        "mall": [
+          {
+            "nama": "Mall Modern",
+            "deskripsi": "Pusat perbelanjaan modern di pusat kota",
+            "foto": "https://example.com/images/mall.jpg"
+          }
+        ],
+        "hotel": [
+          {
+            "nama": "Hotel Nyaman",
+            "deskripsi": "Hotel dengan fasilitas lengkap dan nyaman",
+            "foto": "https://example.com/images/hotel.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "_id": {
+        "$oid": "681e22a1186af30174940cb7"
+      },
+      "nama_daerah": "Ambon",
+      "foto_daerah": "https://example.com/images/ambon.jpg",
+      "wisata": {
+        "kuliner": [
+          {
+            "nama": "Kuliner Khas",
+            "deskripsi": "Makanan khas dari daerah ini",
+            "foto": "https://example.com/images/kuliner.jpg"
+          }
+        ],
+        "gunung": [
+          {
+            "nama": "Gunung Indah",
+            "deskripsi": "Gunung terkenal dengan pemandangan indah",
+            "foto": "https://example.com/images/gunung.jpg"
+          }
+        ],
+        "pantai": [
+          {
+            "nama": "Pantai Cantik",
+            "deskripsi": "Pantai berpasir putih dan ombak tenang",
+            "foto": "https://example.com/images/pantai.jpg"
+          }
+        ],
+        "bangunan_bersejarah": [
+          {
+            "nama": "Bangunan Bersejarah",
+            "deskripsi": "Situs bersejarah yang terkenal di daerah ini",
+            "foto": "https://example.com/images/sejarah.jpg"
+          }
+        ],
+        "mall": [
+          {
+            "nama": "Mall Modern",
+            "deskripsi": "Pusat perbelanjaan modern di pusat kota",
+            "foto": "https://example.com/images/mall.jpg"
+          }
+        ],
+        "hotel": [
+          {
+            "nama": "Hotel Nyaman",
+            "deskripsi": "Hotel dengan fasilitas lengkap dan nyaman",
+            "foto": "https://example.com/images/hotel.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "_id": {
+        "$oid": "681e22a1186af30174940cb8"
+      },
+      "nama_daerah": "Ternate",
+      "foto_daerah": "https://example.com/images/ternate.jpg",
+      "wisata": {
+        "kuliner": [
+          {
+            "nama": "Kuliner Khas",
+            "deskripsi": "Makanan khas dari daerah ini",
+            "foto": "https://example.com/images/kuliner.jpg"
+          }
+        ],
+        "gunung": [
+          {
+            "nama": "Gunung Indah",
+            "deskripsi": "Gunung terkenal dengan pemandangan indah",
+            "foto": "https://example.com/images/gunung.jpg"
+          }
+        ],
+        "pantai": [
+          {
+            "nama": "Pantai Cantik",
+            "deskripsi": "Pantai berpasir putih dan ombak tenang",
+            "foto": "https://example.com/images/pantai.jpg"
+          }
+        ],
+        "bangunan_bersejarah": [
+          {
+            "nama": "Bangunan Bersejarah",
+            "deskripsi": "Situs bersejarah yang terkenal di daerah ini",
+            "foto": "https://example.com/images/sejarah.jpg"
+          }
+        ],
+        "mall": [
+          {
+            "nama": "Mall Modern",
+            "deskripsi": "Pusat perbelanjaan modern di pusat kota",
+            "foto": "https://example.com/images/mall.jpg"
+          }
+        ],
+        "hotel": [
+          {
+            "nama": "Hotel Nyaman",
+            "deskripsi": "Hotel dengan fasilitas lengkap dan nyaman",
+            "foto": "https://example.com/images/hotel.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "_id": {
+        "$oid": "681e22a1186af30174940cb9"
+      },
+      "nama_daerah": "Kendari",
+      "foto_daerah": "https://example.com/images/kendari.jpg",
+      "wisata": {
+        "kuliner": [
+          {
+            "nama": "Kuliner Khas",
+            "deskripsi": "Makanan khas dari daerah ini",
+            "foto": "https://example.com/images/kuliner.jpg"
+          }
+        ],
+        "gunung": [
+          {
+            "nama": "Gunung Indah",
+            "deskripsi": "Gunung terkenal dengan pemandangan indah",
+            "foto": "https://example.com/images/gunung.jpg"
+          }
+        ],
+        "pantai": [
+          {
+            "nama": "Pantai Cantik",
+            "deskripsi": "Pantai berpasir putih dan ombak tenang",
+            "foto": "https://example.com/images/pantai.jpg"
+          }
+        ],
+        "bangunan_bersejarah": [
+          {
+            "nama": "Bangunan Bersejarah",
+            "deskripsi": "Situs bersejarah yang terkenal di daerah ini",
+            "foto": "https://example.com/images/sejarah.jpg"
+          }
+        ],
+        "mall": [
+          {
+            "nama": "Mall Modern",
+            "deskripsi": "Pusat perbelanjaan modern di pusat kota",
+            "foto": "https://example.com/images/mall.jpg"
+          }
+        ],
+        "hotel": [
+          {
+            "nama": "Hotel Nyaman",
+            "deskripsi": "Hotel dengan fasilitas lengkap dan nyaman",
+            "foto": "https://example.com/images/hotel.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "_id": {
+        "$oid": "681e22a1186af30174940cba"
+      },
+      "nama_daerah": "Palangkaraya",
+      "foto_daerah": "https://example.com/images/palangkaraya.jpg",
+      "wisata": {
+        "kuliner": [
+          {
+            "nama": "Kuliner Khas",
+            "deskripsi": "Makanan khas dari daerah ini",
+            "foto": "https://example.com/images/kuliner.jpg"
+          }
+        ],
+        "gunung": [
+          {
+            "nama": "Gunung Indah",
+            "deskripsi": "Gunung terkenal dengan pemandangan indah",
+            "foto": "https://example.com/images/gunung.jpg"
+          }
+        ],
+        "pantai": [
+          {
+            "nama": "Pantai Cantik",
+            "deskripsi": "Pantai berpasir putih dan ombak tenang",
+            "foto": "https://example.com/images/pantai.jpg"
+          }
+        ],
+        "bangunan_bersejarah": [
+          {
+            "nama": "Bangunan Bersejarah",
+            "deskripsi": "Situs bersejarah yang terkenal di daerah ini",
+            "foto": "https://example.com/images/sejarah.jpg"
+          }
+        ],
+        "mall": [
+          {
+            "nama": "Mall Modern",
+            "deskripsi": "Pusat perbelanjaan modern di pusat kota",
+            "foto": "https://example.com/images/mall.jpg"
+          }
+        ],
+        "hotel": [
+          {
+            "nama": "Hotel Nyaman",
+            "deskripsi": "Hotel dengan fasilitas lengkap dan nyaman",
+            "foto": "https://example.com/images/hotel.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "_id": {
+        "$oid": "681e22a1186af30174940cbb"
+      },
+      "nama_daerah": "Bandar Lampung",
+      "foto_daerah": "https://example.com/images/bandar_lampung.jpg",
+      "wisata": {
+        "kuliner": [
+          {
+            "nama": "Kuliner Khas",
+            "deskripsi": "Makanan khas dari daerah ini",
+            "foto": "https://example.com/images/kuliner.jpg"
+          }
+        ],
+        "gunung": [
+          {
+            "nama": "Gunung Indah",
+            "deskripsi": "Gunung terkenal dengan pemandangan indah",
+            "foto": "https://example.com/images/gunung.jpg"
+          }
+        ],
+        "pantai": [
+          {
+            "nama": "Pantai Cantik",
+            "deskripsi": "Pantai berpasir putih dan ombak tenang",
+            "foto": "https://example.com/images/pantai.jpg"
+          }
+        ],
+        "bangunan_bersejarah": [
+          {
+            "nama": "Bangunan Bersejarah",
+            "deskripsi": "Situs bersejarah yang terkenal di daerah ini",
+            "foto": "https://example.com/images/sejarah.jpg"
+          }
+        ],
+        "mall": [
+          {
+            "nama": "Mall Modern",
+            "deskripsi": "Pusat perbelanjaan modern di pusat kota",
+            "foto": "https://example.com/images/mall.jpg"
+          }
+        ],
+        "hotel": [
+          {
+            "nama": "Hotel Nyaman",
+            "deskripsi": "Hotel dengan fasilitas lengkap dan nyaman",
+            "foto": "https://example.com/images/hotel.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "_id": {
+        "$oid": "681e22a1186af30174940cbc"
+      },
+      "nama_daerah": "Serang",
+      "foto_daerah": "https://example.com/images/serang.jpg",
+      "wisata": {
+        "kuliner": [
+          {
+            "nama": "Kuliner Khas",
+            "deskripsi": "Makanan khas dari daerah ini",
+            "foto": "https://example.com/images/kuliner.jpg"
+          }
+        ],
+        "gunung": [
+          {
+            "nama": "Gunung Indah",
+            "deskripsi": "Gunung terkenal dengan pemandangan indah",
+            "foto": "https://example.com/images/gunung.jpg"
+          }
+        ],
+        "pantai": [
+          {
+            "nama": "Pantai Cantik",
+            "deskripsi": "Pantai berpasir putih dan ombak tenang",
+            "foto": "https://example.com/images/pantai.jpg"
+          }
+        ],
+        "bangunan_bersejarah": [
+          {
+            "nama": "Bangunan Bersejarah",
+            "deskripsi": "Situs bersejarah yang terkenal di daerah ini",
+            "foto": "https://example.com/images/sejarah.jpg"
+          }
+        ],
+        "mall": [
+          {
+            "nama": "Mall Modern",
+            "deskripsi": "Pusat perbelanjaan modern di pusat kota",
+            "foto": "https://example.com/images/mall.jpg"
+          }
+        ],
+        "hotel": [
+          {
+            "nama": "Hotel Nyaman",
+            "deskripsi": "Hotel dengan fasilitas lengkap dan nyaman",
+            "foto": "https://example.com/images/hotel.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}]

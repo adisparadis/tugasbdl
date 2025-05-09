@@ -1,0 +1,7 @@
+[{
+  "_id": {
+    "$oid": "681e42e4186af30174940cd2"
+  },
+  "_query_code": "sungai_danau = [item for item in data if \"sungai\" in item[\"wisata\"] or \"danau\" in item[\"wisata\"]]",
+  "data": []
+}]
